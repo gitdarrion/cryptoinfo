@@ -1,6 +1,6 @@
-﻿# Athanor Demo
+﻿# Demo
 
-Athanor Demo is a crypto-currency analysis application. The application downloads data from the coinmetrics.io API on Bitcoin, BitcoinCash, Litecoin, Ethereum, and EthereumClassic. The data is stored in a local MySQL database named "crypto." The data is loaded from the database into a searchable and sortable table rendered on a web page. The web application has a domain for each coin (e.g., "/bitcoin"). 
+Demo is a crypto-currency analysis application. The application downloads data from the coinmetrics.io API on Bitcoin, BitcoinCash, Litecoin, Ethereum, and EthereumClassic. The data is stored in a local MySQL database named "crypto." The data is loaded from the database into a searchable and sortable table rendered on a web page. The web application has a domain for each coin (e.g., "/bitcoin"). 
 
 ## Requirements
 
