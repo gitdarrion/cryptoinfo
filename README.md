@@ -17,7 +17,7 @@ Download the code.
 
 Navigate to the root directory of the repository.
 
-    cd athanor-master
+    cd cryptoinfo
 
 Install the dependencies using npm. 
 
