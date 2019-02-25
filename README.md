@@ -13,7 +13,7 @@ Demo is a crypto-currency analysis application. The application downloads data f
 ## Install
 Download the code.
 
-    git clone https://github.com/darrion/athanor-demo.git.
+    git clone https://github.com/darrion/cryptoinfo.git.
 
 Navigate to the root directory of the repository.
 
